@@ -1,5 +1,5 @@
 # 💫 About Me:
-A keen backend developer, game development and cyber security enthusiast.
+**A keen backend developer, game development and cyber security enthusiast.**
 
 
 ## 🌐 Socials:
