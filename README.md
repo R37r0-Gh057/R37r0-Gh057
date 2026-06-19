@@ -44,7 +44,7 @@ while alive:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R37r0-Gh057&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R37r0-Gh057&show_icons=true&theme=radical" height="165"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R37r0-Gh057&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
