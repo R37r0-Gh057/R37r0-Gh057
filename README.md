@@ -41,20 +41,3 @@ while alive:
     learn()
     overengineer()
 ```
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R37r0-Gh057&show_icons=true&theme=radical" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R37r0-Gh057&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R37r0-Gh057&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-<p align="center">Views Count:</p>
-
-<img width="100%" height="111" src="https://count.getloli.com/@R37r0-Gh057?name=R37r0-Gh057&theme=booru-r6gdrawfriends&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto">
